@@ -83,4 +83,4 @@ function sendMessage() {
     });
 }
 
-appendMessage("Hi, I can help you find a room in HSR Layout, Bangalore. Let me know your details to find a lead!", "Bot")
+appendMessage("Hey there, Babe! What's on your mind today? Got some more genius startup ideas to share?", "Bot")
