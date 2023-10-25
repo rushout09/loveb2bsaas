@@ -83,4 +83,4 @@ function sendMessage() {
     });
 }
 
-appendMessage("Hey there, Babe! What's on your mind today? Got some more genius startup ideas to share?", "Bot")
+appendMessage("Hey there, Bae! What's on your mind today? Got some more genius startup ideas to share?", "Bot")
